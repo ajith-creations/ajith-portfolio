@@ -75,7 +75,7 @@ export const projects = [
     des: "Just part of experimenting.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://4-lovat.vercel.app/",
+    link: "https://04-gules-seven.vercel.app/",
   },
   {
     id: 2,
